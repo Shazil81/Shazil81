@@ -1,71 +1,56 @@
-<div align="left">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/identity-dark.svg" />
+  <img src="./assets/identity-light.svg" width="1000" alt="Mohammad Shazil Moin. Full-stack developer in Patna, India. React, TypeScript, Django, Celery, PostgreSQL and Redis." />
+</picture>
 
-<img src="./assets/profile-banner.svg" width="1200" alt="Mohammad Shazil Moin — Full Stack Developer. Thoughtful interfaces. Reliable systems." />
+**[Portfolio ↗](https://my-portfolio-three-brown-13.vercel.app/)** &nbsp; / &nbsp; **[Résumé ↓](https://my-portfolio-three-brown-13.vercel.app/shazil-resume.pdf)** &nbsp; / &nbsp; **[LinkedIn ↗](https://www.linkedin.com/in/shazil81)** &nbsp; / &nbsp; **[Email ↗](mailto:mohammadshazilmoin@gmail.com)**
 
-<p>Full-stack developer building end-to-end web applications<br>
-with React, Django, PostgreSQL, and Redis.</p>
+I’m **Mohammad Shazil Moin**, a full-stack developer who enjoys turning complex workflows into useful applications. My focus is reliable APIs, asynchronous jobs, payment flows, and interfaces that feel straightforward.
 
-<p><a href="#selected-work--two-things-worth-opening">Selected work</a> &nbsp; / &nbsp; <a href="#toolbox--what-i-build-with">Toolbox</a> &nbsp; / &nbsp; <a href="#activity--building-in-public">Activity</a></p>
+> **Currently studying:** M.Tech in Information Technology (Courseware Engineering), Jadavpur University.  
+> **Building with:** React, Django, PostgreSQL, and Redis.
 
-<p>
-<a href="https://my-portfolio-three-brown-13.vercel.app/"><strong>Explore my portfolio ↗</strong></a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/shazil81">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="mailto:mohammadshazilmoin@gmail.com">Email me</a>
-</p>
+## 01 / Built end to end
 
-</div>
+<a href="https://github.com/Shazil81/SprintLens">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sprintlens-dark.svg" />
+  <img src="./assets/sprintlens-light.svg" width="1000" alt="SprintLens — team-delivery workspace for tasks, sprints, blockers and reviews. React, TypeScript, Django, PostgreSQL and Redis." />
+</picture>
+</a>
 
----
+Role-based workflows, delivery analytics, GitHub activity integration, and authenticated reports. Celery and Redis support background jobs; deployed reminders run through GitHub Actions.
 
-### About / Hi there!
+**[Try SprintLens ↗](https://sprintlens-kohl.vercel.app/)** &nbsp; · &nbsp; **[Source code](https://github.com/Shazil81/SprintLens)** &nbsp; · &nbsp; **[Case study](https://my-portfolio-three-brown-13.vercel.app/work/sprintlens)**
 
-I enjoy connecting responsive interfaces with robust backend systems. My work focuses on **API design, authentication, payment workflows, caching, and asynchronous processing**.
+<details>
+<summary>Preview the application</summary>
 
-Based in **Patna, India**. Pursuing an **M.Tech in Information Technology (Courseware Engineering)** at Jadavpur University, following a B.Tech in Computer Science & Engineering (Data Science) at Brainware University.
+![SprintLens interface](https://raw.githubusercontent.com/Shazil81/My-Portfolio/main/public/work/sprintlens-1-cropped.webp)
 
-## Selected work / Two things worth opening
+</details>
 
-A team-delivery workspace and an ecommerce platform. Built end to end.
+<br />
 
-### 01 / SprintLens
+<a href="https://github.com/Shazil81/flash-sale-ecommerce">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/flashsale-dark.svg" />
+  <img src="./assets/flashsale-light.svg" width="1000" alt="FlashSale — ecommerce with verified payments, PostgreSQL transaction locking and Redis caching." />
+</picture>
+</a>
 
-**Developer activity, delivery, and growth in one workspace.**
+Separate customer, administrator, and delivery workflows. JWT authentication, Razorpay test payments with server-side verification, and atomic fulfillment.
 
-A team-delivery workspace for tasks, sprints, blockers, and two-way reviews, with role-based access for administrators, managers, and developers.
+**[Try FlashSale ↗](https://flash-sale-ecommerce.vercel.app/)** &nbsp; · &nbsp; **[Source code](https://github.com/Shazil81/flash-sale-ecommerce)** &nbsp; · &nbsp; **[Case study](https://my-portfolio-three-brown-13.vercel.app/work/flashsale)**
 
-[![SprintLens application interface](https://raw.githubusercontent.com/Shazil81/My-Portfolio/main/public/work/sprintlens-1-cropped.webp)](https://github.com/Shazil81/SprintLens)
+<details>
+<summary>Preview the application</summary>
 
-- **Delivery visibility:** analytics, audit trails, and GitHub activity integration.
-- **Background processing:** Celery and Redis support jobs; deployed reminders run through GitHub Actions.
-- **Reporting and insights:** authenticated PDF, CSV, and JSON reports, plus consent-based Gemini insights.
+![FlashSale interface](https://raw.githubusercontent.com/Shazil81/My-Portfolio/main/public/work/flashsale-1-cropped.webp)
 
-`React` `TypeScript` `Django REST Framework` `PostgreSQL` `Redis` `Celery`
+</details>
 
-**[Live demo ↗](https://sprintlens-kohl.vercel.app/)** &nbsp; / &nbsp; **[Explore the code](https://github.com/Shazil81/SprintLens)**
-
----
-
-### 02 / FlashSale
-
-**Shopping, payments, and delivery — connected.**
-
-A full-stack ecommerce application with dedicated customer, administrator, and delivery-partner workflows.
-
-[![FlashSale ecommerce application interface](https://raw.githubusercontent.com/Shazil81/My-Portfolio/main/public/work/flashsale-1-cropped.webp)](https://github.com/Shazil81/flash-sale-ecommerce)
-
-- **Secure workflows:** JWT authentication and separate role-based portals.
-- **Payment verification:** Razorpay test checkout with server-side verification.
-- **Reliable fulfillment:** PostgreSQL transaction locking, atomic fulfillment, and Redis catalog caching.
-
-`React` `Django REST Framework` `PostgreSQL` `Redis` `Razorpay`
-
-**[Live demo ↗](https://flash-sale-ecommerce.vercel.app/)** &nbsp; / &nbsp; **[Explore the code](https://github.com/Shazil81/flash-sale-ecommerce)**
-
----
-
-## Toolbox / What I build with
+## 02 / What I build with
 
 ### Frontend
 
@@ -104,7 +89,8 @@ Python · Django · Django REST Framework · Celery · PostgreSQL · MySQL · Re
 
 Git · GitHub · Docker · Kubernetes · JWT · Razorpay · Gemini API
 
-## Activity / Building in public
+
+## 03 / Building in public
 
 <div align="left">
 
@@ -122,26 +108,25 @@ Git · GitHub · Docker · Kubernetes · JWT · Razorpay · Gemini API
 
 <p align="left"><sub>Public GitHub activity · Language share reflects repository code, not proficiency.</sub></p>
 
-## Beyond full-stack
-
-I also explore data analysis, machine learning, and problem solving.
+<details>
+<summary><strong>More from my workspace — analytics, machine learning & problem solving</strong></summary>
 
 - **Analytics:** [Blinkit sales](https://github.com/Shazil81/Blinkit_Sales_Analysis) · [Credit card dashboard](https://github.com/Shazil81/Credit_Card_Dashboard) · [IPL data](https://github.com/Shazil81/IPL_Data_Analysis)
 - **Machine learning:** [Movie recommender](https://github.com/Shazil81/Movie_Recommender_System) · [Sentiment analysis](https://github.com/Shazil81/Sentiment_Analysis)
-- **Problem solving:** [LeetCode](https://leetcode.com/u/890Shazil/) · [GeeksforGeeks](https://www.geeksforgeeks.org/profile/msmoin) · [DSA solutions](https://github.com/Shazil81/LeetCode-DSA)
+- **Problem solving:** [LeetCode](https://leetcode.com/u/890Shazil/) · [GeeksforGeeks](https://www.geeksforgeeks.org/profile/msmoin)
+- **Education:** B.Tech, Computer Science & Engineering (Data Science), Brainware University, 2021–2025.
 
----
+</details>
 
-<div align="left">
+<br />
 
-<h3>Let’s build something.</h3>
+<a href="mailto:mohammadshazilmoin@gmail.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contact-dark.svg" />
+  <img src="./assets/contact-light.svg" width="1000" alt="Let's build something useful. Email Mohammad Shazil Moin at mohammadshazilmoin@gmail.com." />
+</picture>
+</a>
 
-<p>Have an opportunity, a project, or an interesting problem? Let’s talk.</p>
+[Get in touch](mailto:mohammadshazilmoin@gmail.com) · [Explore my portfolio](https://my-portfolio-three-brown-13.vercel.app/) · [Connect on LinkedIn](https://www.linkedin.com/in/shazil81)
 
-<p><a href="mailto:mohammadshazilmoin@gmail.com"><strong>Get in touch ↗</strong></a>
-&nbsp; · &nbsp;
-<a href="https://my-portfolio-three-brown-13.vercel.app/">View portfolio</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/shazil81">Connect on LinkedIn</a></p>
-
-</div>
+<sub>Original artwork and layout for Shazil. Visual inspiration: [Aahil Khan](https://github.com/aahil-khan).</sub>
