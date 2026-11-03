@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shazil81/Shazil81/43b9117a97a8d1575efbddfeca6b08314567ef2a/assets/identity-dark.svg" /><img src="https://raw.githubusercontent.com/Shazil81/Shazil81/43b9117a97a8d1575efbddfeca6b08314567ef2a/assets/identity-light.svg" width="100%" alt="Mohammad Shazil Moin — full-stack developer in Patna, India. React, Django, PostgreSQL and Redis. An animated cat blinks beside the name while the tagline types." /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shazil81/Shazil81/2881f0d9fb5b15389740f88a1d5821db83bc6a81/assets/identity-dark.svg" /><img src="https://raw.githubusercontent.com/Shazil81/Shazil81/2881f0d9fb5b15389740f88a1d5821db83bc6a81/assets/identity-light.svg" width="100%" alt="Mohammad Shazil Moin — full-stack developer in Patna, India. React, Django, PostgreSQL and Redis. The now.txt window types current projects SprintLens and FlashSale, and M.Tech details: Information Technology, Courseware Engineering, Jadavpur University, 2026–2028." /></picture>
 
 <a href="https://my-portfolio-three-brown-13.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/action-portfolio-dark.svg" /><img src="assets/action-portfolio-light.svg" width="168" alt="Portfolio" /></picture></a>
 <a href="https://my-portfolio-three-brown-13.vercel.app/shazil-resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/action-resume-dark.svg" /><img src="assets/action-resume-light.svg" width="185" alt="Resume PDF" /></picture></a>
@@ -76,7 +76,7 @@ I’m **Mohammad Shazil Moin**, based in Patna, India.
 
 <br />
 
-<a href="mailto:mohammadshazilmoin@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shazil81/Shazil81/b972cbebd412fe24c5acafd6cfcebc4f24400aaa/assets/contact-dark.svg" /><img src="https://raw.githubusercontent.com/Shazil81/Shazil81/b972cbebd412fe24c5acafd6cfcebc4f24400aaa/assets/contact-light.svg" width="100%" alt="Let’s build something useful. Animated walking cat and typing headline. Email Mohammad Shazil Moin at mohammadshazilmoin@gmail.com." /></picture></a>
+<a href="mailto:mohammadshazilmoin@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shazil81/Shazil81/2881f0d9fb5b15389740f88a1d5821db83bc6a81/assets/contact-dark.svg" /><img src="https://raw.githubusercontent.com/Shazil81/Shazil81/2881f0d9fb5b15389740f88a1d5821db83bc6a81/assets/contact-light.svg" width="100%" alt="Let’s build something useful. Typing headline. Email Mohammad Shazil Moin at mohammadshazilmoin@gmail.com." /></picture></a>
 
 [Email me](mailto:mohammadshazilmoin@gmail.com) · [Portfolio](https://my-portfolio-three-brown-13.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/shazil81)
 
