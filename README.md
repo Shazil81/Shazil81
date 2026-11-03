@@ -66,13 +66,13 @@ A full-stack ecommerce application with dedicated customer, administrator, and d
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" width="44" height="44" alt="React" title="React" />
-  <img src="https://skillicons.dev/icons?i=ts" width="44" height="44" alt="TypeScript" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=js" width="44" height="44" alt="JavaScript" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=redux" width="44" height="44" alt="Redux" title="Redux" />
-  <img src="https://skillicons.dev/icons?i=html" width="44" height="44" alt="HTML" title="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" width="44" height="44" alt="CSS" title="CSS" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="44" height="44" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="44" height="44" alt="React" title="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript" title="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="44" height="44" alt="Redux" title="Redux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="44" height="44" alt="HTML" title="HTML" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="44" height="44" alt="CSS" title="CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="44" height="44" alt="Bootstrap" title="Bootstrap" />
 </p>
 
 React · TypeScript · JavaScript · Redux · HTML · CSS · Bootstrap
@@ -80,11 +80,11 @@ React · TypeScript · JavaScript · Redux · HTML · CSS · Bootstrap
 ### Backend & data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" width="44" height="44" alt="Python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=django" width="44" height="44" alt="Django" title="Django" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="44" height="44" alt="MySQL" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=redis" width="44" height="44" alt="Redis" title="Redis" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44" height="44" alt="Python" title="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="44" height="44" alt="Django" title="Django" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" title="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="44" height="44" alt="Redis" title="Redis" />
 </p>
 
 Python · Django · Django REST Framework · Celery · PostgreSQL · MySQL · Redis
@@ -92,10 +92,10 @@ Python · Django · Django REST Framework · Celery · PostgreSQL · MySQL · Re
 ### Tools & integrations
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" width="44" height="44" alt="GitHub" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=docker" width="44" height="44" alt="Docker" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="44" height="44" alt="Kubernetes" title="Kubernetes" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="44" height="44" alt="Git" title="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="44" height="44" alt="GitHub" title="GitHub" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="44" height="44" alt="Docker" title="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="44" height="44" alt="Kubernetes" title="Kubernetes" />
 </p>
 
 Git · GitHub · Docker · Kubernetes · JWT · Razorpay · Gemini API
