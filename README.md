@@ -1,10 +1,6 @@
 <div align="center">
 
-<p><strong>REACT · DJANGO · BACKEND SYSTEMS</strong></p>
-
-<h1>Mohammad Shazil Moin</h1>
-
-<h3>Thoughtful interfaces. Reliable systems.</h3>
+<img src="./assets/profile-banner.svg" width="1200" alt="Mohammad Shazil Moin — Full Stack Developer. Thoughtful interfaces. Reliable systems." />
 
 <p>Full-stack developer building end-to-end web applications<br>
 with React, Django, PostgreSQL, and Redis.</p>
@@ -67,14 +63,32 @@ A full-stack ecommerce application with dedicated customer, administrator, and d
 
 ## My toolkit
 
-**Frontend**  
+### Frontend
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,ts,js,redux,html,css,bootstrap&amp;theme=light&amp;perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,html,css,bootstrap&amp;theme=dark&amp;perline=7" alt="React, TypeScript, JavaScript, Redux, HTML, CSS, Bootstrap" />
+</picture>
+
 React · TypeScript · JavaScript · Redux · HTML · CSS · Bootstrap
 
-**Backend & data**  
+### Backend & data
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,django,postgres,mysql,redis&amp;theme=light&amp;perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,redis&amp;theme=dark&amp;perline=7" alt="Python, Django, PostgreSQL, MySQL, Redis" />
+</picture>
+
 Python · Django · Django REST Framework · Celery · PostgreSQL · MySQL · Redis
 
-**Tools & integrations**  
-Git · Docker · Kubernetes · JWT · Razorpay · Gemini API
+### Tools & integrations
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,docker,kubernetes&amp;theme=light&amp;perline=7" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes&amp;theme=dark&amp;perline=7" alt="Git, GitHub, Docker, Kubernetes" />
+</picture>
+
+Git · GitHub · Docker · Kubernetes · JWT · Razorpay · Gemini API
 
 ## Beyond full-stack
 
