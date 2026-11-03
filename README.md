@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/identity-dark.svg" /><img src="assets/identity-light.svg" width="100%" alt="Mohammad Shazil Moin — full-stack developer in Patna, India. React, Django, PostgreSQL and Redis." /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/identity-dark.svg?v=43b9117" /><img src="assets/identity-light.svg?v=43b9117" width="100%" alt="Mohammad Shazil Moin — full-stack developer in Patna, India. React, Django, PostgreSQL and Redis. An animated cat blinks beside the name while the tagline types." /></picture>
 
 <a href="https://my-portfolio-three-brown-13.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/action-portfolio-dark.svg" /><img src="assets/action-portfolio-light.svg" width="168" alt="Portfolio" /></picture></a>
 <a href="https://my-portfolio-three-brown-13.vercel.app/shazil-resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/action-resume-dark.svg" /><img src="assets/action-resume-light.svg" width="185" alt="Resume PDF" /></picture></a>
@@ -76,7 +76,7 @@ I’m **Mohammad Shazil Moin**, based in Patna, India.
 
 <br />
 
-<a href="mailto:mohammadshazilmoin@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg" /><img src="assets/contact-light.svg" width="100%" alt="Let’s build something useful. Email Mohammad Shazil Moin at mohammadshazilmoin@gmail.com." /></picture></a>
+<a href="mailto:mohammadshazilmoin@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg?v=43b9117" /><img src="assets/contact-light.svg?v=43b9117" width="100%" alt="Let’s build something useful. Animated walking cat and typing headline. Email Mohammad Shazil Moin at mohammadshazilmoin@gmail.com." /></picture></a>
 
 [Email me](mailto:mohammadshazilmoin@gmail.com) · [Portfolio](https://my-portfolio-three-brown-13.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/shazil81)
 
