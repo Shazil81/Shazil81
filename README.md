@@ -76,7 +76,7 @@ I’m **Mohammad Shazil Moin**, based in Patna, India.
 
 <br />
 
-<a href="mailto:mohammadshazilmoin@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shazil81/Shazil81/43b9117a97a8d1575efbddfeca6b08314567ef2a/assets/contact-dark.svg" /><img src="https://raw.githubusercontent.com/Shazil81/Shazil81/43b9117a97a8d1575efbddfeca6b08314567ef2a/assets/contact-light.svg" width="100%" alt="Let’s build something useful. Animated walking cat and typing headline. Email Mohammad Shazil Moin at mohammadshazilmoin@gmail.com." /></picture></a>
+<a href="mailto:mohammadshazilmoin@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shazil81/Shazil81/b972cbebd412fe24c5acafd6cfcebc4f24400aaa/assets/contact-dark.svg" /><img src="https://raw.githubusercontent.com/Shazil81/Shazil81/b972cbebd412fe24c5acafd6cfcebc4f24400aaa/assets/contact-light.svg" width="100%" alt="Let’s build something useful. Animated walking cat and typing headline. Email Mohammad Shazil Moin at mohammadshazilmoin@gmail.com." /></picture></a>
 
 [Email me](mailto:mohammadshazilmoin@gmail.com) · [Portfolio](https://my-portfolio-three-brown-13.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/shazil81)
 
