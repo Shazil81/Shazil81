@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420"><title>Mohammad Shazil Moin — React and Django full-stack developer in Patna, India</title><defs><pattern id="g" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#343A44" stroke-width=".7"/></pattern></defs><rect x="8" y="8" width="982" height="400" rx="20" fill="#F7F5EE"/><rect x="1" y="1" width="982" height="400" rx="20" fill="#171A20" stroke="#F7F5EE" stroke-width="2"/><rect x="2" y="2" width="980" height="398" rx="20" fill="url(#g)"/><g font-family="Arial, sans-serif" fill="#F7F5EE">
+<rect x="32" y="30" width="6" height="337" fill="#FACC00"/>
+<text x="58" y="51" font-size="14" letter-spacing="3" fill="#B6B7BB">PATNA, INDIA / FULL-STACK DEVELOPER</text>
+<text x="54" y="139" font-size="81" font-weight="800" letter-spacing="-5">SHAZIL</text>
+<text x="54" y="222" font-size="81" font-weight="800" letter-spacing="-5">MOIN<tspan fill="#FACC00">.</tspan></text>
+<text x="58" y="267" font-size="17" fill="#B6B7BB">MOHAMMAD SHAZIL MOIN</text>
+<text x="58" y="318" font-size="25" font-weight="700">From interface to infrastructure.</text>
+<text x="58" y="351" font-size="20" fill="#B6B7BB">I build the whole thing.</text>
+<g transform="translate(623 68)">
+<text x="0" y="-15" font-size="12" letter-spacing="2" fill="#B6B7BB">HOW I BUILD</text>
+<g transform="translate(0 0)"><rect x="5" y="5" width="300" height="77" rx="10" fill="#F7F5EE"/><rect width="300" height="77" rx="10" fill="#BFB0F0" stroke="#F7F5EE" stroke-width="2"/><text x="17" y="30" font-size="13" font-weight="700" fill="#161616">01 / INTERFACE</text><text x="17" y="57" font-size="20" font-weight="700" fill="#161616">React + TypeScript</text></g><g transform="translate(0 98)"><rect x="5" y="5" width="300" height="77" rx="10" fill="#F7F5EE"/><rect width="300" height="77" rx="10" fill="#FACC00" stroke="#F7F5EE" stroke-width="2"/><text x="17" y="30" font-size="13" font-weight="700" fill="#161616">02 / APPLICATION</text><text x="17" y="57" font-size="20" font-weight="700" fill="#161616">Django + Celery</text></g><g transform="translate(0 196)"><rect x="5" y="5" width="300" height="77" rx="10" fill="#F7F5EE"/><rect width="300" height="77" rx="10" fill="#B8E4C4" stroke="#F7F5EE" stroke-width="2"/><text x="17" y="30" font-size="13" font-weight="700" fill="#161616">03 / DATA</text><text x="17" y="57" font-size="20" font-weight="700" fill="#161616">PostgreSQL + Redis</text></g>
+</g></g></svg>
