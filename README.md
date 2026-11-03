@@ -65,30 +65,58 @@ A full-stack ecommerce application with dedicated customer, administrator, and d
 
 ### Frontend
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,ts,js,redux,html,css,bootstrap&amp;theme=light&amp;perline=7" />
-  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,html,css,bootstrap&amp;theme=dark&amp;perline=7" alt="React, TypeScript, JavaScript, Redux, HTML, CSS, Bootstrap" />
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="44" height="44" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=ts" width="44" height="44" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" width="44" height="44" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=redux" width="44" height="44" alt="Redux" title="Redux" />
+  <img src="https://skillicons.dev/icons?i=html" width="44" height="44" alt="HTML" title="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" width="44" height="44" alt="CSS" title="CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="44" height="44" alt="Bootstrap" title="Bootstrap" />
+</p>
 
 React · TypeScript · JavaScript · Redux · HTML · CSS · Bootstrap
 
 ### Backend & data
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,django,postgres,mysql,redis&amp;theme=light&amp;perline=7" />
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,redis&amp;theme=dark&amp;perline=7" alt="Python, Django, PostgreSQL, MySQL, Redis" />
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="44" height="44" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=django" width="44" height="44" alt="Django" title="Django" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="44" height="44" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="44" height="44" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=redis" width="44" height="44" alt="Redis" title="Redis" />
+</p>
 
 Python · Django · Django REST Framework · Celery · PostgreSQL · MySQL · Redis
 
 ### Tools & integrations
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,docker,kubernetes&amp;theme=light&amp;perline=7" />
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes&amp;theme=dark&amp;perline=7" alt="Git, GitHub, Docker, Kubernetes" />
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="44" height="44" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=docker" width="44" height="44" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="44" height="44" alt="Kubernetes" title="Kubernetes" />
+</p>
 
 Git · GitHub · Docker · Kubernetes · JWT · Razorpay · Gemini API
+
+## GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Shazil81&amp;bg_color=0B1220&amp;title_color=67E8F9&amp;text_color=CBD5E1&amp;icon_color=A78BFA&amp;border_color=34516D&amp;border_radius=16&amp;disable_animations=true&amp;show_icons=true&amp;hide_rank=true" width="495" alt="Shazil81's GitHub stats: stars, commits, pull requests, issues, and contributions" />
+
+<br /><br />
+
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Shazil81&amp;bg_color=0B1220&amp;title_color=67E8F9&amp;text_color=CBD5E1&amp;icon_color=A78BFA&amp;border_color=34516D&amp;border_radius=16&amp;disable_animations=true&amp;show_icons=true&amp;hide_rank=true" width="495" alt="Shazil81's contribution streak: total contributions, current streak, and longest streak" />
+
+<br /><br />
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shazil81&amp;bg_color=0B1220&amp;title_color=67E8F9&amp;text_color=CBD5E1&amp;icon_color=A78BFA&amp;border_color=34516D&amp;border_radius=16&amp;disable_animations=true&amp;layout=compact&amp;langs_count=8&amp;card_width=495" width="495" alt="Shazil81's most used repository languages" />
+
+</div>
+
+<p align="center"><sub>Public GitHub activity · Language share reflects repository code, not proficiency.</sub></p>
 
 ## Beyond full-stack
 
