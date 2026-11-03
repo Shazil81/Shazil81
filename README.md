@@ -1,30 +1,24 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/identity-dark.svg" />
-  <img src="./assets/identity-light.svg" width="1000" alt="Mohammad Shazil Moin. Full-stack developer in Patna, India. React, TypeScript, Django, Celery, PostgreSQL and Redis." />
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/identity-dark.svg" /><img src="assets/identity-light.svg" width="100%" alt="Mohammad Shazil Moin — full-stack developer in Patna, India. React, Django, PostgreSQL and Redis." /></picture>
 
-**[Portfolio ↗](https://my-portfolio-three-brown-13.vercel.app/)** &nbsp; / &nbsp; **[Résumé ↓](https://my-portfolio-three-brown-13.vercel.app/shazil-resume.pdf)** &nbsp; / &nbsp; **[LinkedIn ↗](https://www.linkedin.com/in/shazil81)** &nbsp; / &nbsp; **[Email ↗](mailto:mohammadshazilmoin@gmail.com)**
+<a href="https://my-portfolio-three-brown-13.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/action-portfolio-dark.svg" /><img src="assets/action-portfolio-light.svg" width="168" alt="Portfolio" /></picture></a>
+<a href="https://my-portfolio-three-brown-13.vercel.app/shazil-resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/action-resume-dark.svg" /><img src="assets/action-resume-light.svg" width="185" alt="Resume PDF" /></picture></a>
+<a href="https://www.linkedin.com/in/shazil81"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/action-linkedin-dark.svg" /><img src="assets/action-linkedin-light.svg" width="164" alt="LinkedIn" /></picture></a>
+<a href="mailto:mohammadshazilmoin@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/action-email-dark.svg" /><img src="assets/action-email-light.svg" width="135" alt="Email" /></picture></a>
 
-I’m **Mohammad Shazil Moin**, a full-stack developer who enjoys turning complex workflows into useful applications. My focus is reliable APIs, asynchronous jobs, payment flows, and interfaces that feel straightforward.
+I connect **thoughtful interfaces with reliable backend systems** — from authentication and payments to background jobs and reporting.
 
-> **Currently studying:** M.Tech in Information Technology (Courseware Engineering), Jadavpur University.  
-> **Building with:** React, Django, PostgreSQL, and Redis.
+<br />
 
-## 01 / Built end to end
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/selected-dark.svg" /><img src="assets/selected-light.svg" width="100%" alt="Selected work — two applications, built end to end." /></picture>
 
-<a href="https://github.com/Shazil81/SprintLens">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/sprintlens-dark.svg" />
-  <img src="./assets/sprintlens-light.svg" width="1000" alt="SprintLens — team-delivery workspace for tasks, sprints, blockers and reviews. React, TypeScript, Django, PostgreSQL and Redis." />
-</picture>
-</a>
+<a href="https://github.com/Shazil81/SprintLens"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sprintlens-dark.svg" /><img src="assets/sprintlens-light.svg" width="100%" alt="01 SprintLens. Team-delivery workspace: tasks, sprints, blockers and two-way reviews. React, TypeScript, Django, PostgreSQL, Redis." /></picture></a>
 
-Role-based workflows, delivery analytics, GitHub activity integration, and authenticated reports. Celery and Redis support background jobs; deployed reminders run through GitHub Actions.
-
-**[Try SprintLens ↗](https://sprintlens-kohl.vercel.app/)** &nbsp; · &nbsp; **[Source code](https://github.com/Shazil81/SprintLens)** &nbsp; · &nbsp; **[Case study](https://my-portfolio-three-brown-13.vercel.app/work/sprintlens)**
+[Live demo ↗](https://sprintlens-kohl.vercel.app/) &nbsp; · &nbsp; [Source code](https://github.com/Shazil81/SprintLens)
 
 <details>
-<summary>Preview the application</summary>
+<summary>Inside SprintLens — features and application preview</summary>
+
+Role-based workflows, delivery analytics, GitHub integration, and authenticated reports. Celery and Redis support background processing; deployed reminders run through GitHub Actions.
 
 ![SprintLens interface](https://raw.githubusercontent.com/Shazil81/My-Portfolio/main/public/work/sprintlens-1-cropped.webp)
 
@@ -32,101 +26,58 @@ Role-based workflows, delivery analytics, GitHub activity integration, and authe
 
 <br />
 
-<a href="https://github.com/Shazil81/flash-sale-ecommerce">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/flashsale-dark.svg" />
-  <img src="./assets/flashsale-light.svg" width="1000" alt="FlashSale — ecommerce with verified payments, PostgreSQL transaction locking and Redis caching." />
-</picture>
-</a>
+<a href="https://github.com/Shazil81/flash-sale-ecommerce"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/flashsale-dark.svg" /><img src="assets/flashsale-light.svg" width="100%" alt="02 FlashSale. Ecommerce with verified test payments, transaction locking and caching. React, Django, PostgreSQL, Redis, Razorpay." /></picture></a>
 
-Separate customer, administrator, and delivery workflows. JWT authentication, Razorpay test payments with server-side verification, and atomic fulfillment.
-
-**[Try FlashSale ↗](https://flash-sale-ecommerce.vercel.app/)** &nbsp; · &nbsp; **[Source code](https://github.com/Shazil81/flash-sale-ecommerce)** &nbsp; · &nbsp; **[Case study](https://my-portfolio-three-brown-13.vercel.app/work/flashsale)**
+[Live demo ↗](https://flash-sale-ecommerce.vercel.app/) &nbsp; · &nbsp; [Source code](https://github.com/Shazil81/flash-sale-ecommerce)
 
 <details>
-<summary>Preview the application</summary>
+<summary>Inside FlashSale — features and application preview</summary>
+
+Customer, administrator, and delivery-partner workflows. JWT authentication, Razorpay test checkout with server-side verification, PostgreSQL transaction locking, atomic fulfillment, and Redis caching.
 
 ![FlashSale interface](https://raw.githubusercontent.com/Shazil81/My-Portfolio/main/public/work/flashsale-1-cropped.webp)
 
 </details>
 
-## 02 / What I build with
+<br />
 
-### Frontend
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg" /><img src="assets/toolbox-light.svg" width="100%" alt="What I build with: Python, TypeScript, JavaScript; React, Redux, HTML, CSS, Bootstrap; Django, Django REST Framework, Celery, PostgreSQL, Redis, MySQL; Docker, Git, Kubernetes, JWT, Razorpay and Gemini API." /></picture>
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="44" height="44" alt="React" title="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript" title="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="44" height="44" alt="Redux" title="Redux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="44" height="44" alt="HTML" title="HTML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="44" height="44" alt="CSS" title="CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="44" height="44" alt="Bootstrap" title="Bootstrap" />
-</p>
+<details>
+<summary>About me, education and more projects</summary>
 
-React · TypeScript · JavaScript · Redux · HTML · CSS · Bootstrap
+I’m **Mohammad Shazil Moin**, based in Patna, India.
 
-### Backend & data
+- **M.Tech:** Information Technology (Courseware Engineering), Jadavpur University, 2026–2028.
+- **B.Tech:** Computer Science & Engineering (Data Science), Brainware University, 2021–2025.
+- **Analytics:** [Blinkit sales](https://github.com/Shazil81/Blinkit_Sales_Analysis) · [Credit card dashboard](https://github.com/Shazil81/Credit_Card_Dashboard)
+- **Machine learning:** [Movie recommender](https://github.com/Shazil81/Movie_Recommender_System) · [Sentiment analysis](https://github.com/Shazil81/Sentiment_Analysis)
+- **Problem solving:** [LeetCode](https://leetcode.com/u/890Shazil/) · [GeeksforGeeks](https://www.geeksforgeeks.org/profile/msmoin)
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="44" height="44" alt="Python" title="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="44" height="44" alt="Django" title="Django" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" title="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="44" height="44" alt="Redis" title="Redis" />
-</p>
-
-Python · Django · Django REST Framework · Celery · PostgreSQL · MySQL · Redis
-
-### Tools & integrations
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="44" height="44" alt="Git" title="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="44" height="44" alt="GitHub" title="GitHub" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="44" height="44" alt="Docker" title="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="44" height="44" alt="Kubernetes" title="Kubernetes" />
-</p>
-
-Git · GitHub · Docker · Kubernetes · JWT · Razorpay · Gemini API
-
+</details>
 
 ## 03 / Building in public
 
 <div align="left">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Shazil81&amp;bg_color=F7F5EE&amp;title_color=161616&amp;text_color=161616&amp;icon_color=B58B00&amp;border_color=161616&amp;border_radius=16&amp;disable_animations=true&amp;show_icons=true&amp;hide_rank=true" width="495" alt="Shazil81's GitHub stats: stars, commits, pull requests, issues, and contributions" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Shazil81&amp;bg_color=171A20&amp;title_color=FACC00&amp;text_color=F7F5EE&amp;icon_color=B58B00&amp;border_color=3B414B&amp;border_radius=16&amp;disable_animations=true&amp;show_icons=true&amp;hide_rank=true" /><img src="https://github-readme-stats-fast.vercel.app/api?username=Shazil81&amp;bg_color=F7F5EE&amp;title_color=161616&amp;text_color=161616&amp;icon_color=B58B00&amp;border_color=161616&amp;border_radius=16&amp;disable_animations=true&amp;show_icons=true&amp;hide_rank=true" width="495" alt="Shazil81's GitHub stats: stars, commits, pull requests, issues, and contributions" /></picture>
 
 <br /><br />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Shazil81&amp;bg_color=F7F5EE&amp;title_color=161616&amp;text_color=161616&amp;icon_color=B58B00&amp;border_color=161616&amp;border_radius=16&amp;disable_animations=true&amp;show_icons=true&amp;hide_rank=true" width="495" alt="Shazil81's contribution streak: total contributions, current streak, and longest streak" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=Shazil81&amp;bg_color=171A20&amp;title_color=FACC00&amp;text_color=F7F5EE&amp;icon_color=B58B00&amp;border_color=3B414B&amp;border_radius=16&amp;disable_animations=true&amp;show_icons=true&amp;hide_rank=true" /><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Shazil81&amp;bg_color=F7F5EE&amp;title_color=161616&amp;text_color=161616&amp;icon_color=B58B00&amp;border_color=161616&amp;border_radius=16&amp;disable_animations=true&amp;show_icons=true&amp;hide_rank=true" width="495" alt="Shazil81's contribution streak: total contributions, current streak, and longest streak" /></picture>
 
 <br /><br />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shazil81&amp;bg_color=F7F5EE&amp;title_color=161616&amp;text_color=161616&amp;icon_color=B58B00&amp;border_color=161616&amp;border_radius=16&amp;disable_animations=true&amp;layout=compact&amp;langs_count=8&amp;card_width=495" width="495" alt="Shazil81's most used repository languages" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shazil81&amp;bg_color=171A20&amp;title_color=FACC00&amp;text_color=F7F5EE&amp;icon_color=B58B00&amp;border_color=3B414B&amp;border_radius=16&amp;disable_animations=true&amp;layout=compact&amp;langs_count=8&amp;card_width=495" /><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shazil81&amp;bg_color=F7F5EE&amp;title_color=161616&amp;text_color=161616&amp;icon_color=B58B00&amp;border_color=161616&amp;border_radius=16&amp;disable_animations=true&amp;layout=compact&amp;langs_count=8&amp;card_width=495" width="495" alt="Shazil81's most used repository languages" /></picture>
 
 </div>
 
 <p align="left"><sub>Public GitHub activity · Language share reflects repository code, not proficiency.</sub></p>
 
-<details>
-<summary><strong>More from my workspace — analytics, machine learning & problem solving</strong></summary>
-
-- **Analytics:** [Blinkit sales](https://github.com/Shazil81/Blinkit_Sales_Analysis) · [Credit card dashboard](https://github.com/Shazil81/Credit_Card_Dashboard) · [IPL data](https://github.com/Shazil81/IPL_Data_Analysis)
-- **Machine learning:** [Movie recommender](https://github.com/Shazil81/Movie_Recommender_System) · [Sentiment analysis](https://github.com/Shazil81/Sentiment_Analysis)
-- **Problem solving:** [LeetCode](https://leetcode.com/u/890Shazil/) · [GeeksforGeeks](https://www.geeksforgeeks.org/profile/msmoin)
-- **Education:** B.Tech, Computer Science & Engineering (Data Science), Brainware University, 2021–2025.
-
-</details>
-
 <br />
 
-<a href="mailto:mohammadshazilmoin@gmail.com">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contact-dark.svg" />
-  <img src="./assets/contact-light.svg" width="1000" alt="Let's build something useful. Email Mohammad Shazil Moin at mohammadshazilmoin@gmail.com." />
-</picture>
-</a>
+<a href="mailto:mohammadshazilmoin@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-dark.svg" /><img src="assets/contact-light.svg" width="100%" alt="Let’s build something useful. Email Mohammad Shazil Moin at mohammadshazilmoin@gmail.com." /></picture></a>
 
-[Get in touch](mailto:mohammadshazilmoin@gmail.com) · [Explore my portfolio](https://my-portfolio-three-brown-13.vercel.app/) · [Connect on LinkedIn](https://www.linkedin.com/in/shazil81)
+[Email me](mailto:mohammadshazilmoin@gmail.com) · [Portfolio](https://my-portfolio-three-brown-13.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/shazil81)
 
-<sub>Original artwork and layout for Shazil. Visual inspiration: [Aahil Khan](https://github.com/aahil-khan).</sub>
+<sub>Custom artwork for Shazil. Visual inspiration: [Aahil Khan](https://github.com/aahil-khan/aahil-khan). Technology logos: [Devicon](https://github.com/devicons/devicon). Typography: Space Grotesk.</sub>
