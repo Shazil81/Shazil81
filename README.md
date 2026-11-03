@@ -1,9 +1,11 @@
-<div align="center">
+<div align="left">
 
 <img src="./assets/profile-banner.svg" width="1200" alt="Mohammad Shazil Moin — Full Stack Developer. Thoughtful interfaces. Reliable systems." />
 
 <p>Full-stack developer building end-to-end web applications<br>
 with React, Django, PostgreSQL, and Redis.</p>
+
+<p><a href="#selected-work--two-things-worth-opening">Selected work</a> &nbsp; / &nbsp; <a href="#toolbox--what-i-build-with">Toolbox</a> &nbsp; / &nbsp; <a href="#activity--building-in-public">Activity</a></p>
 
 <p>
 <a href="https://my-portfolio-three-brown-13.vercel.app/"><strong>Explore my portfolio ↗</strong></a>
@@ -17,13 +19,15 @@ with React, Django, PostgreSQL, and Redis.</p>
 
 ---
 
-### A little about me
+### About / Hi there!
 
 I enjoy connecting responsive interfaces with robust backend systems. My work focuses on **API design, authentication, payment workflows, caching, and asynchronous processing**.
 
 Based in **Patna, India**. Pursuing an **M.Tech in Information Technology (Courseware Engineering)** at Jadavpur University, following a B.Tech in Computer Science & Engineering (Data Science) at Brainware University.
 
-## Selected work
+## Selected work / Two things worth opening
+
+A team-delivery workspace and an ecommerce platform. Built end to end.
 
 ### 01 / SprintLens
 
@@ -61,7 +65,7 @@ A full-stack ecommerce application with dedicated customer, administrator, and d
 
 ---
 
-## My toolkit
+## Toolbox / What I build with
 
 ### Frontend
 
@@ -100,23 +104,23 @@ Python · Django · Django REST Framework · Celery · PostgreSQL · MySQL · Re
 
 Git · GitHub · Docker · Kubernetes · JWT · Razorpay · Gemini API
 
-## GitHub activity
+## Activity / Building in public
 
-<div align="center">
+<div align="left">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Shazil81&amp;bg_color=0B1220&amp;title_color=67E8F9&amp;text_color=CBD5E1&amp;icon_color=A78BFA&amp;border_color=34516D&amp;border_radius=16&amp;disable_animations=true&amp;show_icons=true&amp;hide_rank=true" width="495" alt="Shazil81's GitHub stats: stars, commits, pull requests, issues, and contributions" />
-
-<br /><br />
-
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Shazil81&amp;bg_color=0B1220&amp;title_color=67E8F9&amp;text_color=CBD5E1&amp;icon_color=A78BFA&amp;border_color=34516D&amp;border_radius=16&amp;disable_animations=true&amp;show_icons=true&amp;hide_rank=true" width="495" alt="Shazil81's contribution streak: total contributions, current streak, and longest streak" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Shazil81&amp;bg_color=F7F5EE&amp;title_color=161616&amp;text_color=161616&amp;icon_color=B58B00&amp;border_color=161616&amp;border_radius=16&amp;disable_animations=true&amp;show_icons=true&amp;hide_rank=true" width="495" alt="Shazil81's GitHub stats: stars, commits, pull requests, issues, and contributions" />
 
 <br /><br />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shazil81&amp;bg_color=0B1220&amp;title_color=67E8F9&amp;text_color=CBD5E1&amp;icon_color=A78BFA&amp;border_color=34516D&amp;border_radius=16&amp;disable_animations=true&amp;layout=compact&amp;langs_count=8&amp;card_width=495" width="495" alt="Shazil81's most used repository languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Shazil81&amp;bg_color=F7F5EE&amp;title_color=161616&amp;text_color=161616&amp;icon_color=B58B00&amp;border_color=161616&amp;border_radius=16&amp;disable_animations=true&amp;show_icons=true&amp;hide_rank=true" width="495" alt="Shazil81's contribution streak: total contributions, current streak, and longest streak" />
+
+<br /><br />
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shazil81&amp;bg_color=F7F5EE&amp;title_color=161616&amp;text_color=161616&amp;icon_color=B58B00&amp;border_color=161616&amp;border_radius=16&amp;disable_animations=true&amp;layout=compact&amp;langs_count=8&amp;card_width=495" width="495" alt="Shazil81's most used repository languages" />
 
 </div>
 
-<p align="center"><sub>Public GitHub activity · Language share reflects repository code, not proficiency.</sub></p>
+<p align="left"><sub>Public GitHub activity · Language share reflects repository code, not proficiency.</sub></p>
 
 ## Beyond full-stack
 
@@ -128,11 +132,11 @@ I also explore data analysis, machine learning, and problem solving.
 
 ---
 
-<div align="center">
+<div align="left">
 
-<h3>Let’s build something useful.</h3>
+<h3>Let’s build something.</h3>
 
-<p>Interested in my work or want to discuss a project?</p>
+<p>Have an opportunity, a project, or an interesting problem? Let’s talk.</p>
 
 <p><a href="mailto:mohammadshazilmoin@gmail.com"><strong>Get in touch ↗</strong></a>
 &nbsp; · &nbsp;
